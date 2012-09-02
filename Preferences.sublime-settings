@@ -1,0 +1,16 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Clouds.tmTheme",
+	"font_size": 12.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"scroll_past_end": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"fold_buttons": false,
+	"margin": 10,
+	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "node_modules"]
+}
