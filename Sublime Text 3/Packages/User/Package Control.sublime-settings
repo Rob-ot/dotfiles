@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Babel",
+		"Charcoal",
+		"ColorPicker",
+		"EJS",
+		"Elm Language Support",
+		"Git",
+		"GitGutter",
+		"Github Tools",
+		"GitHubinator",
+		"JsFormat",
+		"LESS",
+		"Markdown Preview",
+		"MarkdownHighlighting",
+		"Oceanic Next Color Scheme",
+		"Open Folder",
+		"Package Control",
+		"Pretty JSON",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-stylelint",
+		"TrailingSpaces",
+		"TypeScript"
+	]
+}

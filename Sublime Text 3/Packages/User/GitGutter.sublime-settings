@@ -1,0 +1,5 @@
+{
+  "debounce_delay": 400,
+  "diff_popup_default_mode": "diff",
+  "ignore_whitespace": "eol",
+}
