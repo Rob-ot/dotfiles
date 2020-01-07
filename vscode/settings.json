@@ -1,0 +1,16 @@
+{
+    "workbench.colorTheme": "Oceanic Next (dimmed bg)",
+    "window.zoomLevel": 0,
+    "files.trimTrailingWhitespace": true,
+    "files.associations": {
+        "*.js": "javascriptreact"
+    },
+    "editor.acceptSuggestionOnEnter": "off",
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "editor.tabSize": 2,
+    "workbench.editor.tabSizing": "shrink",
+    "editor.minimap.showSlider": "always",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    }
+}
